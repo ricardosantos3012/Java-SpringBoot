@@ -1,9 +1,0 @@
-package project.springweb.my_first_project_api.controller;
-
-@RestC
-public class WelcomeController {
-	
-	public String welcome() {
-		return "Welcome to a Spring Boot REST API";
-	}
-}

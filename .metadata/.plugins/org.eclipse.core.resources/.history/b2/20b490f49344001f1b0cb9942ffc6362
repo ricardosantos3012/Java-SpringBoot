@@ -1,7 +1,0 @@
-package controller;
-
-public class WelcomeController {
-	public String welcome() {
-		retur "Welcome to my spring boot web api";
-	}
-}

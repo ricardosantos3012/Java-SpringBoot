@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+C:\Users\ricar\Java SpringBoot\Java-SpringBoot\.metadata\.plugins\org.eclipse.jdt.core
