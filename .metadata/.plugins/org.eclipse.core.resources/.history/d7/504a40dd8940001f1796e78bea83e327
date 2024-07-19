@@ -1,0 +1,16 @@
+package dio.springproject;
+
+import org.springframework.boot.CommandLineRunner;
+ class MyApp implements CommandLineRunner {
+
+	@Override
+	public void run(String... args) throws Exception {
+		
+		Calculadora calculadora = new Calculadora();
+		
+		calculadora.somar(2, 4);
+		
+		
+	}
+	
+}

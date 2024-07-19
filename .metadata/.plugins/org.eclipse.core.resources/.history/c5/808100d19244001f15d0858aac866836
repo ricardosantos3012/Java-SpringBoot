@@ -1,0 +1,9 @@
+package project.springweb.my_first_project_api;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class WelcomeController {
+	@GetMapping("/welcome")
+	public String
+}

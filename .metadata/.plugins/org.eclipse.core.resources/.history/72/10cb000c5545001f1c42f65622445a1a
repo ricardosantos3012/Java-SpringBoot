@@ -1,0 +1,7 @@
+package project.springweb.my_first_project_api.model;
+
+public class Usuario {
+	
+	private Integer id;
+	private S
+}

@@ -1,0 +1,7 @@
+package project.springweb.my_first_project_api.controller;
+
+public class WelcomeController {
+	public String welcome() {
+		return "Welcome to a String
+	}
+}
